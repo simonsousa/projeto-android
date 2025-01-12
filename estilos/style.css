@@ -55,7 +55,7 @@ header > p { /* palavras do cabeçalho  */
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 nav { /* caixa dos links  */
