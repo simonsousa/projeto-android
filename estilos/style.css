@@ -52,9 +52,8 @@ header > p { /* palavras do cabeçalho  */
     font-size: 1.2em;
     color: white;
     max-width: 600px;
-    padding-right: 10px;
-    padding-left: 10px;
-    margin: 10px auto 0px auto;
+    padding: 10px;
+    margin: auto;
 }
 
 nav { /* caixa dos links  */
